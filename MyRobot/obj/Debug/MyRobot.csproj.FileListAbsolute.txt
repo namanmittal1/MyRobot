@@ -1,0 +1,30 @@
+E:\wpf apps\MyRobot\MyRobot\bin\Debug\MyRobot.exe.config
+E:\wpf apps\MyRobot\MyRobot\obj\Debug\MainWindow.g.cs
+E:\wpf apps\MyRobot\MyRobot\obj\Debug\App.g.cs
+E:\wpf apps\MyRobot\MyRobot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\wpf apps\MyRobot\MyRobot\obj\Debug\MyRobot_MarkupCompile.cache
+E:\wpf apps\MyRobot\MyRobot\obj\Debug\MyRobot_MarkupCompile.lref
+E:\wpf apps\MyRobot\MyRobot\bin\Debug\MyRobot.exe
+E:\wpf apps\MyRobot\MyRobot\bin\Debug\MyRobot.pdb
+E:\wpf apps\MyRobot\MyRobot\obj\Debug\MainWindow.baml
+E:\wpf apps\MyRobot\MyRobot\obj\Debug\MyRobot.g.resources
+E:\wpf apps\MyRobot\MyRobot\obj\Debug\MyRobot.Properties.Resources.resources
+E:\wpf apps\MyRobot\MyRobot\obj\Debug\MyRobot.csproj.GenerateResource.Cache
+E:\wpf apps\MyRobot\MyRobot\obj\Debug\MyRobot.exe
+E:\wpf apps\MyRobot\MyRobot\obj\Debug\MyRobot.pdb
+E:\wpf apps\MyRobot\MyRobot\obj\Debug\MyRobot.csprojResolveAssemblyReference.cache
+C:\E Drive\Developed Softwares\wpf apps\MyRobot\MyRobot\bin\Debug\MyRobot.exe.config
+C:\E Drive\Developed Softwares\wpf apps\MyRobot\MyRobot\obj\Debug\MyRobot.exe
+C:\E Drive\Developed Softwares\wpf apps\MyRobot\MyRobot\obj\Debug\MyRobot.pdb
+C:\E Drive\Developed Softwares\wpf apps\MyRobot\MyRobot\bin\Debug\MyRobot.exe
+C:\E Drive\Developed Softwares\wpf apps\MyRobot\MyRobot\bin\Debug\MyRobot.pdb
+C:\E Drive\Developed Softwares\wpf apps\MyRobot\MyRobot\obj\Debug\MyRobot.csprojResolveAssemblyReference.cache
+C:\E Drive\Developed Softwares\wpf apps\MyRobot\MyRobot\obj\Debug\MainWindow.g.cs
+C:\E Drive\Developed Softwares\wpf apps\MyRobot\MyRobot\obj\Debug\App.g.cs
+C:\E Drive\Developed Softwares\wpf apps\MyRobot\MyRobot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\E Drive\Developed Softwares\wpf apps\MyRobot\MyRobot\obj\Debug\MyRobot_MarkupCompile.cache
+C:\E Drive\Developed Softwares\wpf apps\MyRobot\MyRobot\obj\Debug\MyRobot_MarkupCompile.lref
+C:\E Drive\Developed Softwares\wpf apps\MyRobot\MyRobot\obj\Debug\MainWindow.baml
+C:\E Drive\Developed Softwares\wpf apps\MyRobot\MyRobot\obj\Debug\MyRobot.g.resources
+C:\E Drive\Developed Softwares\wpf apps\MyRobot\MyRobot\obj\Debug\MyRobot.Properties.Resources.resources
+C:\E Drive\Developed Softwares\wpf apps\MyRobot\MyRobot\obj\Debug\MyRobot.csproj.GenerateResource.Cache
